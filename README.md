@@ -72,20 +72,24 @@ Members of team working on the project:
 ## Creation Process
 
 <h4>1. Market Research</h4>
+
 * Value Proposition Canvas
 * Customer Journey Map
 * Personas
 
 <h4>2. Wireframing</h4>
+
 * Creating User Stories
 * Filling out the Functionality Description Template
 * Creating rough sketches / wireframing in Figma
 
 <h4>3. Business Catalog</h4>
+
 * Creating the Business Catalog document
 * Presenting our wireframes to professors who gave us their first feedback before moving on to the prototyping stage
 
 <h4>4. Prototyping</h4>
+
 * Creating an application prototype in Figma
 * Presenting our prototype to professors who gave us their first feedback before moving on to the prototyping stage
 
