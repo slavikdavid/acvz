@@ -79,7 +79,7 @@ Application prototype made in Figma can be accessed via <a href = "https://www.f
 <h4>4. Prototyping</h4>
 
 * Creating an application prototype in Figma
-* Presenting our prototype to professors who gave us their first feedback before moving on to the prototyping stage
+* Presenting our prototype to professors who gave us their feedback and points scored for the project
 
 ### Built With
 
