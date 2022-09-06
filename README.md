@@ -45,7 +45,7 @@ Main functionalities include:
 * ability to change and customize app to user's liking (color scheme, accessibility options)
 * accessibility option in form of a TTS (Text-To-Speech)
 
-This project was made as a final project for the course 'IT Service Management' at the Faculty of Organisation and Informatics in Varaždin.
+This project was made as an assignment project for the course 'IT Service Management' at the Faculty of Organisation and Informatics in Varaždin.
 Members of team working on the project:
 
 * Stjepan Petrović
