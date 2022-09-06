@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -25,12 +23,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/slavikdavid/acvz">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo-acvz.png" alt="Logo" width="30%">
   </a>
   <h3 align="center">ACVZ - Athletic Club Varazdin</h3>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -39,6 +35,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#creation-process">Creation Process</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -48,12 +45,21 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+The main idea behind this project was creating an application which would be helpful to athletes and their trainers in an athletic club.
+
+Main functionalities include:
+* creating a training plan for an athlete
+* view all information regarding the training plan
+* pay for membership via credit card in the app
+* social media aspect such as posts, individual and group chat
+* creating events and signing up for events (races, charity, etc.)
+* ability to change and customize app to user's liking (color scheme, accessibility options)
+* accessibility option in form of a TTs (Text-To-Speech)
 
 This project was made as a final project for the course 'IT Service Management' at the Faculty of Organisation and Informatics in Varaždin.
 Members of team working on the project:
@@ -63,6 +69,25 @@ Members of team working on the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Creation Process
+
+<h4>1. Market Research</h4>
+* Value Proposition Canvas
+* Customer Journey Map
+* Personas
+
+<h4>2. Wireframing</h4>
+* Creating User Stories
+* Filling out the Functionality Description Template
+* Creating rough sketches / wireframing in Figma
+
+<h4>3. Business Catalog</h4>
+* Creating the Business Catalog document
+* Presenting our wireframes to professors who gave us their first feedback before moving on to the prototyping stage
+
+<h4>4. Prototyping</h4>
+* Creating an application prototype in Figma
+* Presenting our prototype to professors who gave us their first feedback before moving on to the prototyping stage
 
 ### Built With
 
@@ -73,9 +98,9 @@ Members of team working on the project:
 This project is code-free.
 It has been realized using a couple of websites and Figma software.
 
-Figma software was used for creating sketches, wireframes and prototyping.
-Milanote was used for creating User Stories and Personas.
-Pitch was used for creating the final presentation during the project defense
+* Figma software was used for creating sketches, wireframes and prototyping
+* Milanote was used for creating User Stories and Personas
+* Pitch was used for creating the final presentation during the project defense
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,8 +111,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -96,7 +119,6 @@ David Slavik - dslavik20@foi.hr
 Project Link: [https://github.com/slavikdavid/acvz](https://github.com/slavikdavid/acvz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
