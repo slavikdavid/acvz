@@ -122,6 +122,9 @@ Project Link: [https://github.com/slavikdavid/acvz](https://github.com/slavikdav
 Icon incorporated in the application logo:
 <a href="https://www.flaticon.com/free-icons/fast" title="fast icons">Fast icons created by Freepik - Flaticon</a>
 
+Mockup used:
+<a href="https://www.freepik.com/free-psd/premium-mobile-phone-screen-mockup-template_3574401.htm#query=mockup%20phone&position=13&from_view=search">Image by rawpixel.com</a> on Freepik
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -145,4 +148,4 @@ Icon incorporated in the application logo:
 [Milanote]: https://img.shields.io/badge/Milanote-20232A?style=for-the-badge&logoColor=FFFFFF&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAodJREFUWEfNmI1RHDEMhZ8qCFdJoAJCBSEdhAogFYR0ABUkHeSuArgKApVAKhDzHHmxvd6Vfbsk8czN8SN7P8lPkteCzqGqRwA+AjgHwJ/5ObZlHgA822cLYCci/L15SKulqhLgEsCH1jlmdw/gVkQI6A4XSFUJ8PUAkPLhBPsmIvyeHLNAqvodwGfXrT6DGxH5MjWlCmQ6+blCVKaeyyh9qulrBGQwd4lQ+/xvt2YCnJVQNSDC9Aq3HSO3vBeRs/RPGdAbacaDZQZeRaMByLKJ0fkXg1sXsi8F+ptbNSoJcesCkBU9ZtXcOEkK3bvGMP5O9PjLmcOs20Yghut0tmCJRFu2Cdp7UAFGRJhNdFodILaZc7E0f/I8FgOyxT2oDKYRiGYbArESsyLPjgikqsf0mt8TkRpgom0H0AWB2PTYvVuBGE1mRQ0qgwFwJyKbDqAdgVz9hHR81RC1wCNFCUWzoBmLHrP2qJjn+b0nENUfzzOTEyoLl1CEzmAqjnhADwTy1B8WmfB0gErEHiITn9wZISwFKlN7JPRDgFgn3nuxrCxcCjjdsqFOdQI9HirqUTaZQ6Ps6wQKou5Ne+pmlE0GNMo+EQl6atRqSPslhTETcA2qo3VweiiM9OCQ1lGDiVLMsq8jQpvu5uqJf+r/DVv2p7kaPd+5vOPHcIjqhbLK3X78MKimFtIL02i/F5Fwjv9/j7AWpRt7XW50bBWz+iE/Lt3a/VdBAYatGnpfubCVAerJbScLoR6twGa3I3Ov0qzgs+fsBUB7Xuc0vUqnD1HVt9BUppnSqdbrmOsVosWoXC+6jimixeLJvueevwuvdwB+rHZhNSF6wqVXejEBKNT0Sm/be6X3Alnil221GRzjAAAAAElFTkSuQmCC
 [Milanote-url]: https://milanote.com/
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/acvz-app.png
