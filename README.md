@@ -83,9 +83,9 @@ Application prototype made in Figma can be accessed via <a href = "https://www.f
 
 ### Built With
 
-* [![Figma][Figma]][Figma-url]
-* [![Milanote][Milanote]][Milanote-url]
-* [![Pitch][Pitch]][Pitch-url]
+[![Figma][Figma]][Figma-url]
+[![Milanote][Milanote]][Milanote-url]
+[![Pitch][Pitch]][Pitch-url]
 
 This project is code-free.
 It has been realized using a couple of websites and Figma software.
