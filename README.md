@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][slavik-shield]][slavik-url]
+[![LinkedIn][petrovic-shield]][petrovic-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -35,6 +18,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#application-prototype">Application Prototype</a></li>
         <li><a href="#creation-process">Creation Process</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -59,13 +43,17 @@ Main functionalities include:
 * social media aspect such as posts, individual and group chat
 * creating events and signing up for events (races, charity, etc.)
 * ability to change and customize app to user's liking (color scheme, accessibility options)
-* accessibility option in form of a TTs (Text-To-Speech)
+* accessibility option in form of a TTS (Text-To-Speech)
 
 This project was made as a final project for the course 'IT Service Management' at the Faculty of Organisation and Informatics in Varaždin.
 Members of team working on the project:
 
 * Stjepan Petrović
 * David Slavik (me!)
+
+## Application Prototype
+
+Application prototype made in Figma can be accessed via <a href = "https://www.figma.com/proto/oMv2d8wOaXG9XvWXjyxSFn/ACVZ?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=453%3A1295">this link</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +106,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-David Slavik - dslavik20@foi.hr
+David Slavik - <a href = "https://github.com/slavikdavid">GitHub</a> - dslavik20@foi.hr
+
+Stjepan Petrović - <a href = "https://github.com/StjepanPetrovic">GitHub</a>  - spetrovic20@foi.hr
 
 Project Link: [https://github.com/slavikdavid/acvz](https://github.com/slavikdavid/acvz)
 
@@ -137,11 +127,14 @@ Icon incorporated in the application logo:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/slavikdavid/acvz.svg?style=for-the-badge
+[license-url]: https://github.com/slavikdavid/acvz/blob/master/LICENSE.txt
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/slavikdavid
+[slavik-shield]: https://img.shields.io/badge/david%20slavik-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[petrovic-shield]: https://img.shields.io/badge/stjepan%20petrovi%C4%87-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[slavik-url]: https://linkedin.com/in/slavikdavid
+[petrovic-url]: https://www.linkedin.com/in/stjepan-petrovi%C4%87-27357b1a8/
 
 [Figma]: https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma
 [Figma-url]: https://figma.com
